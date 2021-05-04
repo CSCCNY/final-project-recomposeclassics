@@ -5,6 +5,7 @@
 Final Project - 2021 Spring Term (1) Deep Neural Networks and Applications with Tensorflow [CSCI1910]
 
 
-- Hannah Do
+
 - Bethold Owusu
+- Hannah Do
 - Ethan Cobb
